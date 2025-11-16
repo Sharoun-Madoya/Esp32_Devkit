@@ -2713,6 +2713,16 @@
 		)
 		(uuid "8fe38741-6552-46a9-85aa-ac4c73f92f99")
 	)
+	(label "CHIP_EN"
+		(at 58.42 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "95049bd5-ce68-4c93-8c5f-7d581ad452bd")
+	)
 	(label "IO35"
 		(at 60.96 91.44 0)
 		(effects
